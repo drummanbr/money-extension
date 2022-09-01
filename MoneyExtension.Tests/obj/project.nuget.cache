@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Er2GJFPy21a3y4NG41JPEzq+lp1kdmfX2cPab5G0KwjhnZu12v9EmF8gTqktDFg7UjyI2bUcXJmA6hTWeZGzBg==",
+  "dgSpecHash": "OkhbYP1PnV42UWQv7qePlSz/WBtF6H45J+X1sBdiI3dhO/OkLijpZ+UaGM/1nnCbB10wOS6/MAOFEs/4Gwteuw==",
   "success": true,
-  "projectFilePath": "F:\\Dev\\MoneyExtension\\MoneyExtension.Tests\\MoneyExtension.Tests.csproj",
+  "projectFilePath": "F:\\dev\\MoneyExtension\\MoneyExtension.Tests\\MoneyExtension.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\odair\\.nuget\\packages\\coverlet.collector\\3.1.2\\coverlet.collector.3.1.2.nupkg.sha512",
     "C:\\Users\\odair\\.nuget\\packages\\microsoft.codecoverage\\17.1.0\\microsoft.codecoverage.17.1.0.nupkg.sha512",
