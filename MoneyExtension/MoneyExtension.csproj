@@ -4,7 +4,7 @@
     <TargetFramework>net6.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <PackageId>MoneyExtension</PackageId>
+    <PackageId>MoneyExtension_Drumman</PackageId>
     <Version>1.0.0</Version>
     <License>MIT</License>
     <Authors>Odair Sousa</Authors>
@@ -16,7 +16,7 @@
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
     <PackageIcon>icon.png</PackageIcon>
     <PackageTags>money;int;decimal;converter</PackageTags>
-    <Title>MoneyExtension</Title>
+    <Title>MoneyExtension_Drumman</Title>
     <Summary>Extension to convert decimal to integer</Summary>
   </PropertyGroup>
  <ItemGroup>

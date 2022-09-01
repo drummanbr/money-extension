@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\Dev\\MoneyExtension\\MoneyExtension\\MoneyExtension.csproj",
-      "projectName": "MoneyExtension",
-      "projectPath": "F:\\Dev\\MoneyExtension\\MoneyExtension\\MoneyExtension.csproj",
+      "projectUniqueName": "F:\\dev\\MoneyExtension\\MoneyExtension\\MoneyExtension.csproj",
+      "projectName": "MoneyExtension_Drumman",
+      "projectPath": "F:\\dev\\MoneyExtension\\MoneyExtension\\MoneyExtension.csproj",
       "packagesPath": "C:\\Users\\odair\\.nuget\\packages\\",
-      "outputPath": "F:\\Dev\\MoneyExtension\\MoneyExtension\\obj\\",
+      "outputPath": "F:\\dev\\MoneyExtension\\MoneyExtension\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\odair\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1789,14 +1789,14 @@
           "lib/netstandard1.3/System.Xml.XDocument.dll": {}
         }
       },
-      "MoneyExtension/1.0.0": {
+      "MoneyExtension_Drumman/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
         "compile": {
-          "bin/placeholder/MoneyExtension.dll": {}
+          "bin/placeholder/MoneyExtension_Drumman.dll": {}
         },
         "runtime": {
-          "bin/placeholder/MoneyExtension.dll": {}
+          "bin/placeholder/MoneyExtension_Drumman.dll": {}
         }
       }
     }
@@ -6267,7 +6267,7 @@
         "system.xml.xdocument.nuspec"
       ]
     },
-    "MoneyExtension/1.0.0": {
+    "MoneyExtension_Drumman/1.0.0": {
       "type": "project",
       "path": "../MoneyExtension/MoneyExtension.csproj",
       "msbuildProject": "../MoneyExtension/MoneyExtension.csproj"
@@ -6278,7 +6278,7 @@
       "MSTest.TestAdapter >= 2.2.8",
       "MSTest.TestFramework >= 2.2.8",
       "Microsoft.NET.Test.Sdk >= 17.1.0",
-      "MoneyExtension >= 1.0.0",
+      "MoneyExtension_Drumman >= 1.0.0",
       "coverlet.collector >= 3.1.2"
     ]
   },
