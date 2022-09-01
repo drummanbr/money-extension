@@ -10,13 +10,15 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("MoneyExtension")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("drummanbr")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
+[assembly: System.Reflection.AssemblyDescriptionAttribute("Extension to convert decimal to integer")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
 [assembly: System.Reflection.AssemblyProductAttribute("MoneyExtension")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MoneyExtension")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
+[assembly: System.Reflection.AssemblyMetadataAttribute("RepositoryUrl", "https://github.com/drummanbr/money-extension")]
 
 // Gerado pela classe WriteCodeFragment do MSBuild.
 

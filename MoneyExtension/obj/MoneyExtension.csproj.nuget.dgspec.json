@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\dev\\MoneyExtension\\MoneyExtension\\MoneyExtension.csproj": {}
+    "F:\\Dev\\MoneyExtension\\MoneyExtension\\MoneyExtension.csproj": {}
   },
   "projects": {
-    "F:\\dev\\MoneyExtension\\MoneyExtension\\MoneyExtension.csproj": {
+    "F:\\Dev\\MoneyExtension\\MoneyExtension\\MoneyExtension.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\dev\\MoneyExtension\\MoneyExtension\\MoneyExtension.csproj",
+        "projectUniqueName": "F:\\Dev\\MoneyExtension\\MoneyExtension\\MoneyExtension.csproj",
         "projectName": "MoneyExtension",
-        "projectPath": "F:\\dev\\MoneyExtension\\MoneyExtension\\MoneyExtension.csproj",
+        "projectPath": "F:\\Dev\\MoneyExtension\\MoneyExtension\\MoneyExtension.csproj",
         "packagesPath": "C:\\Users\\odair\\.nuget\\packages\\",
-        "outputPath": "F:\\dev\\MoneyExtension\\MoneyExtension\\obj\\",
+        "outputPath": "F:\\Dev\\MoneyExtension\\MoneyExtension\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\odair\\AppData\\Roaming\\NuGet\\NuGet.Config",

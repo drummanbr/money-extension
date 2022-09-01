@@ -4,6 +4,22 @@
     <TargetFramework>net6.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+    <PackageId>MoneyExtension</PackageId>
+    <Version>1.0.0</Version>
+    <License>MIT</License>
+    <Authors>Odair Sousa</Authors>
+    <Company>drummanbr</Company>
+    <PackageDescription>Extension to convert decimal to integer</PackageDescription>
+    <Description>Extension to convert decimal to integer</Description>
+    <RepositoryUrl>https://github.com/drummanbr/money-extension</RepositoryUrl>
+    <PackageProjectUrl>https://github.com/drummanbr/money-extension</PackageProjectUrl>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <PackageIcon>icon.png</PackageIcon>
+    <PackageTags>money;int;decimal;converter</PackageTags>
+    <Title>MoneyExtension</Title>
+    <Summary>Extension to convert decimal to integer</Summary>
   </PropertyGroup>
-
+ <ItemGroup>
+    <None Include="..\Media\icon.png" Pack="true" PackagePath="\"/>
+  </ItemGroup>
 </Project>
